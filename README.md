@@ -17,6 +17,7 @@ Bootstrap 5 – Responsive layout and components
 JavaScript (Vanilla) – Interactivity
 
 Project Structure
+
 ├── index.html        # Main landing page  
 ├── style.css         # Custom CSS styling  
 ├── script.js         # JavaScript for interactivity  
